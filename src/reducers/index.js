@@ -1,3 +1,4 @@
+import { ADD_NEW_SMURF, FETCH_SMURF_FAILED, FETCH_SMURF_START, FETCH_SMURF_SUCCESS, SET_ERROR } from "../actions"
 
 export const initialState = {
     smurfs: [],
