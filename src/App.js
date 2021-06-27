@@ -15,7 +15,7 @@ class App extends Component {
 
         <main>
           <SmurfList/>
-          <AddForm/>
+          
         </main>
       </div>
     );
